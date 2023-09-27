@@ -25,3 +25,6 @@ replay_pid*
 java-anatomia-de-classes/.vscode/settings.json
 tipos-variaveis/.vscode/settings.json
 metodos-sistema-smart-tv/.vscode/settings.json
+java-doc/.vscode/settings.json
+terminal-argumentos/.vscode/settings.json
+terminal-argumentos/.vscode/launch.json
