@@ -27,7 +27,8 @@ public class ProcessoSeletivo2 {
 		System.out.println("Total de consultados: " + proximoCandidato);
 	}
 	static double valorPretendido() {
-	     return ThreadLocalRandom.current().nextDouble(1800, 2200);
+	     
+		return ThreadLocalRandom.current().nextDouble(1800, 2200);
 	}
 	
 	

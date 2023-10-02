@@ -29,8 +29,7 @@ public class ProcessoSeletivo4 {
 			System.out.println("CONSEGUIMOS CONTATO COM " + candidato +" APÓS " + tentativasRealizadas + " TENTATIVA(S)");
 		else
 			System.out.println("NÃO CONSEGUIMOS CONTATO COM " + candidato +", NÚMERO MAXIMO TENTATIVAS " + tentativasRealizadas + " REALIZADA (S)");
-		
-		
+				
 	}
 
 //método auxiliar - random = se o valor entre 1 e 3 ele atendeu se não passa para o próximo

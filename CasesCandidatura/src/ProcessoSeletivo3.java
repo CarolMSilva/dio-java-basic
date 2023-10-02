@@ -20,7 +20,6 @@ public class ProcessoSeletivo3 {
 		for(String candidato: candidatosSelecionados) {
 			System.out.println(candidato);
 		}
-		
 	}
 }
 
