@@ -13,7 +13,7 @@ public class Smartphone{
         phone.selecionarMusica("Música 2");
         phone.fazerchamada("123-456-789");
         phone.atenderChamada("987-654-321");
-        phone.iniciarConversaVoz("987-654-321");
+        phone.iniciarConrreioVoz("987-654-321");
         phone.enviarMensagem("987-654-321", "Olá, tudo bem?");
         phone.receberMensagem("987-654-321", "Tudo bem, obrigado!");
         phone.exibirPagina("https://www.exemplo.com");

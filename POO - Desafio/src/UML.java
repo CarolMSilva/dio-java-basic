@@ -4,19 +4,20 @@
 | + tocarMusica(musica: String): void |    +-----------------------------+                               +---------------------------+
 | + pausarMusica(): void              |    |        iPhone               |                               |  + ReprodutorMusical      |
 | + selecionarMusica(musica: String): |    +-----------------------------+                               |  + AparelhoTelefonico     |       
-|    void                             |    | + AparelhoTelefonico        |                               |  + NavegadorInternet      |
-| + pararMusica(): void               |<---| + NavegadorInternet         |                               |  + DispositivoEletronico  |
-+-------------------------------------+    | + DispositivoEletronico     |                               +---------------------------+
-                                           +-----------------------------+                                             ^
-       |                                          ^   ^                                                                |       
-       |                                          |   |                                                                |
+|    void                             |    | + ReprodutorMusical         |                               |  + NavegadorInternet      |
+| + pararMusica(): void               |<---| + AparelhoTelefonico        |                               |  + DispositivoEletronico  |
++-------------------------------------+    | + NavegadorInternet         |                               +---------------------------+
+                                           | + DispositivoEletronico     |                                           ^           
+                                           +-----------------------------+                                           |  
+       |                                          ^   ^                                                              |         
+       |                                          |   |                                                              |   
        v                                          |   |                                                    +---------------------------+
 +-------------------------+                       |   |                                                    |         Smartphone        |
 |   AparelhoTelefonico     <|----------------------   |                                                    +---------------------------+
 +-------------------------+                       |                                                        *                           *
 | + fazerchamada(numero: String): void    |                                                                |                           |
 | + atenderChamada(numero: String): void  |                                                                |                           |
-| + iniciarConversaVoz(numero: String):   |                                                                +---------------------------+
+| + iniciarConrreioVoz(numero: String):   |                                                                +---------------------------+
 |      void                               |            
 | + enviarMensagem (numero: String,       |
 |       mensagem: String): void           |
@@ -49,3 +50,4 @@
 
 
 
+Versão draw.io link no readme

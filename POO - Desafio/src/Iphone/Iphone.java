@@ -34,7 +34,7 @@ public class Iphone{
         // Implementação para atender uma chamada
     }
 
-    public void iniciarConversaVoz(String numero) {
+    public void iniciarCorreioVoz(String numero) {
         // Implementação para iniciar uma conversa de voz
     }
 		public void enviarMensagem(String numero, String mensagem) {

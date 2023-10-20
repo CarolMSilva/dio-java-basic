@@ -11,5 +11,5 @@ Desafio proposto pela DIO.
 - Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 - Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-Ferramenta excolhida draw.io para a realização do UML.
+Ferramenta excolhida draw.io para a realização do UML, mas fiz também na versão java.
 
