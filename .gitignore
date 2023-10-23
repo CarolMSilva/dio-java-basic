@@ -35,3 +35,6 @@ DesafioControleFluxo/bin/CasesCandidatura/.vscode/settings.json
 DesafioControleFluxo/.vscode/settings.json
 CasesCandidatura/.vscode/settings.json
 POO - Desafio/.vscode/settings.json
+demo/src/main/java/com/example/demo/DemoApplication.java
+demo/src/test/java/com/example/demo/DemoApplicationTests.java
+demo/src/main/resources/application.properties
