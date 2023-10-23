@@ -25,5 +25,4 @@ Como será possivel ver o objetivo da aplicação foi desenvolver uma agenda par
 
 ---
 
-
 <img align="right" width="200px" style="margin-top:-20px" src="https://sdk.bitmoji.com/render/panel/999b856f-016c-45e6-8293-d2fe8e800eba-e8e19190-9190-4839-a7d5-66e28b298962-v1.png?transparent=1&palette=1">
